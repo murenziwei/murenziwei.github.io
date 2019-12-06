@@ -13,7 +13,11 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://murenziwei.github.io
+deploy:
+  type: git
+  repo: https://github.com/murenziwei/murenziwei.github.io.git
+  branch: master
+url: https://murenziwei.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
