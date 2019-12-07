@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://murenziwei.github.io/"/>
-  <updated>2019-12-06T08:51:48.310Z</updated>
+  <updated>2019-12-07T09:49:34.663Z</updated>
   <id>https://murenziwei.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Centos Linux下使用Metasploit渗透android</title>
+    <link href="https://murenziwei.github.io/2019/12/06/two-test/"/>
+    <id>https://murenziwei.github.io/2019/12/06/two-test/</id>
+    <published>2019-12-06T09:22:20.000Z</published>
+    <updated>2019-12-07T09:49:34.663Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3&gt;&lt;span id=&quot;metasploit是一款开源的安全漏洞检测工具&quot;&gt;Metasploit是一款开源的安全漏洞检测工具&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://p1.ssl.qhimg.com/t0190cd0706efb0b092.jpg&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>one-test</title>
